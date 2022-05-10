@@ -1,0 +1,6 @@
+C:\Users\Jojoka\source\repos\LevaK\LevaK\bin\Debug\LevaK.exe.config
+C:\Users\Jojoka\source\repos\LevaK\LevaK\bin\Debug\LevaK.exe
+C:\Users\Jojoka\source\repos\LevaK\LevaK\bin\Debug\LevaK.pdb
+C:\Users\Jojoka\source\repos\LevaK\LevaK\obj\Debug\LevaK.csproj.CoreCompileInputs.cache
+C:\Users\Jojoka\source\repos\LevaK\LevaK\obj\Debug\LevaK.exe
+C:\Users\Jojoka\source\repos\LevaK\LevaK\obj\Debug\LevaK.pdb
