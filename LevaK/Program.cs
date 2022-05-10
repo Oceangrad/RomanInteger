@@ -11,6 +11,8 @@ namespace LevaK
         static void Main(string[] args)
         {
             Console.WriteLine(RomainToInt("MCMXCIV")); //1994
+            Console.WriteLine(RomainToInt("Нажмите любую кнопку для выхода"));
+            Console.Read();
         }
 
         static int RomainToInt(string s)
